@@ -38,3 +38,6 @@ This project entails analyzing building inspection data provided by a government
 
 **Conclusion:**
 This overview summarizes the objectives, data structure, and analysis tasks involved in the building inspection analysis project. Through comprehensive data exploration, hypothesis testing, and predictive modeling, the project aims to enhance understanding of building safety and inform policy decisions to improve regulatory effectiveness.
+
+
+The jupyter notebook for this project is available on: https://github.com/juwonlo-tech/building-inspection/blob/main/Building%20Inspection.ipynb
