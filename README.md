@@ -2,7 +2,7 @@
 **Project Overview: Building Inspection Analysis**
 
 **Introduction:**
-This project entails analyzing building inspection data provided. The goal is to gain insights into inspection outcomes, identify patterns, and develop models to understand factors influencing building safety ratings.
+This project entails exploring building inspection data. The goal is to gain insights into inspection outcomes, identify patterns, and develop models to understand factors influencing building safety ratings.
 
 **Data Structure:**
 1. **Master Building List:** Contains information on buildings, each with a unique identifier.
